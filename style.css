@@ -8,6 +8,11 @@ h1{
 .name-highlight{
     color: orange;
     font-style: italic;
-    font-weight: 200px;
-    
+    font-weight: 200px;   
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-left: 5%;
 }
