@@ -11,8 +11,18 @@ h1{
     font-weight: 200px;   
 }
 .half-width{
-    width: 40%;
+    width: 40%; /*removed float: left; for top banner background first, later added again*/
     float: left;
     padding: 2%;
     margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-bg{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
