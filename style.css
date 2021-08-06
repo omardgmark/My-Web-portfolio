@@ -13,7 +13,7 @@ p{
     color: purple;
 }
 .name-highlight{
-    color: orange;
+    color: rgb(255, 115, 0);
     font-style: italic;
     font-weight: 200px;   
 }
