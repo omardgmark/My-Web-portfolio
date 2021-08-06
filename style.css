@@ -27,3 +27,11 @@ h1{
 section{
     height: 500px;
 }
+.link-button{
+    text-decoration: none; /*text decrtn none for removing default undrline from anchor a tag*/
+    background-image: linear-gradient(rgba(255, 255, 255, 0.918), rgb(250, 104, 6));
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: rgb(151, 0, 252);
+    
+}
