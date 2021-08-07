@@ -52,7 +52,7 @@ section{
 .exprnc{
     background-image: url("images/exprnc-bg.png");
     background-repeat: no-repeat;
-    background-size: 80%;
+    background-size: 100%;
 }
 .boxer-exp{
     box-shadow: 10px 10px 40px purple;
