@@ -12,13 +12,16 @@ h2{
 p{
     color: purple;
 }
-.name-highlight{
+.orange-highlight{
     color: rgb(255, 115, 0);
     font-style: italic;
     font-weight: 200px;   
 }
+.prpl-highlight{
+    color: rgb(162, 0, 255);
+}
 .half-width{
-    width: 40%; /*removed float: left; for top banner background first, later added again*/
+    width: 40%;   /*removed float: left; for top banner background first, later added again*/
     float: left;
     padding: 2%;
     margin-left: 5%;
@@ -44,4 +47,8 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.exprnc{
+    background-image: url("images/exprnc-bg.png");
+    background-repeat: no-repeat;
 }
