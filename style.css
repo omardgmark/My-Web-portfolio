@@ -4,7 +4,8 @@ body{
 
 }
 h1{
-    font-size: 50px;
+    font-size: 52px;
+    color: rgb(151, 0, 252);
 }
 h2{
     font-size: 40px;
@@ -58,7 +59,7 @@ section{
     box-shadow: 10px 10px 40px purple;
     border-radius: 50px;
     height: 60%;
-    background-color: rgba(255, 115, 0, 0.26);
+    background-color: rgba(255, 229, 208, 0.801);
     width: 38%; /*added width later to fix box size after adding left border*/
 }
 #fullstack{
