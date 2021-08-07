@@ -35,6 +35,7 @@ p{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .link-button{
     text-decoration: none; /*text decrtn none for removing default undrline from anchor a tag*/
@@ -51,4 +52,5 @@ section{
 .exprnc{
     background-image: url("images/exprnc-bg.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
